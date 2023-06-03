@@ -70,3 +70,9 @@
   .bd-mode-toggle {
     z-index: 1500;
   }
+
+  #svg_1 , #svg_2, #svg_3 , #svg_4 , #svg_5 , #svg_6{
+   
+    filter: drop-shadow(-7px -4px 87px #2337C9);
+width: 2rem;
+  }
